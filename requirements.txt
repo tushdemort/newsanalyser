@@ -1,0 +1,6 @@
+pandas
+flair
+ssl
+newscatcherapi
+csv
+streamlit
