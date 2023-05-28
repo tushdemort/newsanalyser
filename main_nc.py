@@ -3,7 +3,7 @@ from flair.data import Sentence
 from flair.nn import Classifier
 tagger = Classifier.load('sentiment')
 
-from textblob import TextBlob as tb
+
 import ssl
 from newscatcherapi import NewsCatcherApiClient
 import csv
